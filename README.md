@@ -5,7 +5,7 @@
 This project presents a comprehensive **portfolio risk and return
 analysis** of major U.S. banks between **2018--2024** using **Excel**.\
 The study evaluates both an **equal-weighted bank portfolio (BAC, C,
-JPM, WFC)** and a **two-bank portfolio (JPMorgan & Morgan Stanley)**.
+JPM, WFC)**.
 
 ## 🏦 Key Objectives
 
